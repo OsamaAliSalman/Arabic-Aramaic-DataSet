@@ -21,4 +21,4 @@ Salman, Osama A. & Hosszú, Gábor (2021): Cladistic Analysis of the Evolution o
 
 Tóth, Loránd Lehel & Hosszú, Gábor (2019): A New Topological Method for Examining Historical Inscriptions. _Journal of Information Technology Research (JITR)_ 12 (2): 1–16. April-June 2019. DOI:10.4018/JITR.2019040101
 
-Raymond Eliza Ivan Pardede, Loránd Lehel Tóth, Gábor Hosszú, Ferenc Kovács (2012): Glyph Identification Based on Topological Analysis. In: _Proceedings of the PhD Workshops at BME. March 9, 2012,_ pp. 99–103. ISBN 978-963-313-073-5. Online: https://www.academia.edu/3792570
+Raymond Eliza Ivan Pardede, Loránd Lehel Tóth, Gábor Hosszú, Ferenc Kovács (2012): Glyph Identification Based on Topological Analysis. In: _Proceedings of the PhD Workshops at BME. March 9, 2012,_ pp. 99–103. Online: https://www.academia.edu/3792570
