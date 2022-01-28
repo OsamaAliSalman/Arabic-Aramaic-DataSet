@@ -7,3 +7,5 @@ The outgroup taxon is supposed to be the common ancestor of the ingroup. In our 
 
 # References
 Hosszú, Gábor (2017): Phenetic Approach to Script Evolution. In: Hannah Busch, Franz Fischer, Patrick Sahle (eds.), Kodikologie und Paläographie im Digitalen Zeitalter 4 – Codicology and Palaeography in the Digital Age 4. (Based on the conference lecture in Machines and Manuscripts III - Research of Written Documents in the Digital Age, February 22-23, 2016, Darmstadt) Schriften des Instituts für Dokumentologie und Editorik 11. Norderstedt: Books on Demand, ISBN: 978-3-7448-3877-1, 179–252. http://kups.ub.uni-koeln.de/7787/, URN: http://nbn-resolving.de/urn:nbn:de:hbz:38-77871
+Salman, Osama A. & Hosszú, Gábor (2021): A Phenetic Approach to Selected Variants of the Arabic and Aramaic Scripts, International Journal of Data Analytics (IJDA), _in press_
+Salman, Osama A. & Hosszú, Gábor (2021): Cladistic Analysis of the Evolution of Some Aramaic and Arabic Script Varieties, International Journal of Applied Evolutionary Computation (IJAEC), _in press_
