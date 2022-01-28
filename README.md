@@ -15,10 +15,10 @@ Hosszú, G. (2017): Phenetic Approach to Script Evolution. In: Hannah Busch, Fra
 
 Hosszú, G. & Kovács, F. (2016): Topological Analysis of Ancient Glyphs. In: _Proc. of the 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2016), October 9-12, 2016, Budapest, Hungary,_ pp. 2248–2253. DOI:10.1109/SMC.2016.7844573. Online: http://real.mtak.hu/id/eprint/133933
 
+Pardede, R. E. I.; Tóth, L. L.; Hosszú, G. & Kovács, F. (2012): Glyph Identification Based on Topological Analysis. In: _Proceedings of the PhD Workshops at BME. March 9, 2012,_ pp. 99–103. Online: https://www.academia.edu/3792570
+
 Salman, O. A. & Hosszú, G. (2021): A Phenetic Approach to Selected Variants of the Arabic and Aramaic Scripts, _International Journal of Data Analytics (IJDA),_ _in press_
 
 Salman, O. A. & Hosszú, G. (2021): Cladistic Analysis of the Evolution of Some Aramaic and Arabic Script Varieties, _International Journal of Applied Evolutionary Computation (IJAEC),_ _in press_
 
 Tóth, L. L. & Hosszú, G. (2019): A New Topological Method for Examining Historical Inscriptions. _Journal of Information Technology Research (JITR)_ 12 (2): 1–16. April-June 2019. DOI:10.4018/JITR.2019040101
-
-Pardede, R. E. I.; Tóth, L. L.; Hosszú, G. & Kovács, F. (2012): Glyph Identification Based on Topological Analysis. In: _Proceedings of the PhD Workshops at BME. March 9, 2012,_ pp. 99–103. Online: https://www.academia.edu/3792570
