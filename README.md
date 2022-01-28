@@ -1,11 +1,12 @@
 # Arabic-Aramaic-DataSet
+## Introduction
 The taxa are the followings: Arabic-early, Arabic-Kufic, Arabic-Naskh, Arabic-Mauritanian, Arabic-African, Arabic-modern, 
 Nabataean, Palmyrene, Syriac-Estrangela and Syriac-Nestorian. The examined taxa features are extracted based on 
 the collections of similar features of the script variants. These collections are called Similarity Features Groups (SFGs), 
 and the purpose of their construction is to avoid the random coincidence of evolutionary unrelated but similar features (Hosszú, 2017: 182). 
 The outgroup taxon is supposed to be the common ancestor of the ingroup. In our case, the studied script varieties of the Aramaic script family form the ingroup.
 
-# References
+## References
 Hosszú, Gábor (2021): _Scriptinformatics. Extended Phenetic Approach to Script Evolution._ Budapest: Nap Kiadó (“Sun” Publishing). ISBN 978 963 332 178 2. Online: https://books.google.hu/books?id=1D0wEAAAQBAJ
 
 Hosszú, Gábor (2021): Data-Driven Phenetic Modeling of Scripts’ Evolution. In: Shifeng Liu, Gábor Bohács, Xianliang Shi, Xiaopu Shang and Anqiang Huang (Eds.), _LISS 2020. Proceedings of the 10th International Conference on Logistics, Informatics and Service Sciences,_ Singapore: Springer. 389–403. https://doi.org/10.1007/978-981-33-4359-7_28
