@@ -6,6 +6,8 @@ and the purpose of their construction is to avoid the random coincidence of evol
 The outgroup taxon is supposed to be the common ancestor of the ingroup. In our case, the studied script varieties of the Aramaic script family form the ingroup.
 
 # References
+Hosszú, Gábor (2021): _Scriptinformatics. Extended Phenetic Approach to Script Evolution._ Budapest: Nap Kiadó (“Sun” Publishing). ISBN 978 963 332 178 2. Online: https://books.google.hu/books?id=1D0wEAAAQBAJ
+
 Hosszú, Gábor (2017): Phenetic Approach to Script Evolution. In: Hannah Busch, Franz Fischer, Patrick Sahle (eds.), _Kodikologie und Paläographie im Digitalen Zeitalter 4 – Codicology and Palaeography in the Digital Age 4. (Based on the conference lecture in Machines and Manuscripts III - Research of Written Documents in the Digital Age, February 22-23, 2016, Darmstadt) Schriften des Instituts für Dokumentologie und Editorik 11._ Norderstedt: Books on Demand, ISBN: 978-3-7448-3877-1, 179–252. http://kups.ub.uni-koeln.de/7787/, URN: http://nbn-resolving.de/urn:nbn:de:hbz:38-77871
 
 Salman, Osama A. & Hosszú, Gábor (2021): A Phenetic Approach to Selected Variants of the Arabic and Aramaic Scripts, _International Journal of Data Analytics (IJDA),_ _in press_
