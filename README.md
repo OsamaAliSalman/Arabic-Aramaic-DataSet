@@ -1,8 +1,9 @@
 # Arabic-Aramaic-DataSet
 ## Introduction
-The taxa are the followings: Arabic-early, Arabic-Kufic, Arabic-Naskh, Arabic-Mauritanian, Arabic-African, Arabic-modern, Armazian, Hatran, Hebrew, Imperial Aramaic, Khwarazmian, Middle Persian, Nabataean, Old Aramaic, Palmyrene, Parthian, Sogdian, Syriac-Estrangela and Syriac-Nestorian. The examined taxa features are extracted based on the collections of similar features of the script variants. These collections are called Similarity Features Groups (SFGs), 
-and the purpose of their construction is to avoid the random coincidence of evolutionary unrelated but similar features (Hosszú, 2017: 182). 
-The outgroup taxon is supposed to be the common ancestor of the ingroup. In our case, the studied script varieties of the Aramaic script family form the ingroup.
+The taxa are the followings scripts or script variants: Arabic-early, Arabic-Kufic, Arabic-Naskh, Arabic-Mauritanian, Arabic-African, Arabic-modern, Armazian, Hatran, Hebrew, Imperial Aramaic, Khwarazmian, Middle Persian, Nabataean, Old Aramaic, Palmyrene, Parthian, Sogdian, Syriac-Estrangela and Syriac-Nestorian.
+
+The examined taxa features are extracted based on the collections of similar features of the script variants. These collections are called Similarity Features Groups (SFGs), 
+and the purpose of their construction is to avoid the random coincidence of evolutionary unrelated but similar features (Hosszú, 2017: 182; Hosszú, 2023).
 
 ## References
 Hosszú, G. (2021): _Scriptinformatics. Extended Phenetic Approach to Script Evolution._ Budapest: Nap. Online: https://books.google.hu/books?id=1D0wEAAAQBAJ
@@ -10,6 +11,8 @@ Hosszú, G. (2021): _Scriptinformatics. Extended Phenetic Approach to Script Evo
 Hosszú, G. (2021): Data-Driven Phenetic Modeling of Scripts’ Evolution. In: Shifeng Liu, Gábor Bohács, Xianliang Shi, Xiaopu Shang and Anqiang Huang (Eds.), _LISS 2020. Proceedings of the 10th International Conference on Logistics, Informatics and Service Sciences,_ Singapore: Springer. 389–403. Online: https://doi.org/10.1007/978-981-33-4359-7_28
 
 Hosszú, G. (2017): Phenetic Approach to Script Evolution. In: Hannah Busch, Franz Fischer, Patrick Sahle (eds.), _Kodikologie und Paläographie im Digitalen Zeitalter 4 – Codicology and Palaeography in the Digital Age 4. (Based on the conference lecture in Machines and Manuscripts III - Research of Written Documents in the Digital Age, February 22-23, 2016, Darmstadt)_ Norderstedt: Books on Demand. 179–252. Online: http://kups.ub.uni-koeln.de/7787/, URN: http://nbn-resolving.de/urn:nbn:de:hbz:38-77871
+
+Hosszú, G. (2023): _The Similarity Feature Groups of the Arabic and Aramaic Taxa. Research report._ Unpublished. Online: https://github.com/OsamaAliSalman/Arabic-Aramaic-DataSet/blob/main/SFGs_of_the_Arabic_%26_Aramaic_taxa.pdf
 
 Hosszú, G. & Kovács, F. (2016): Topological Analysis of Ancient Glyphs. In: _Proc. of the 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2016), October 9-12, 2016, Budapest, Hungary._ 2248–2253. DOI:10.1109/SMC.2016.7844573. Online: http://real.mtak.hu/id/eprint/133933
 
