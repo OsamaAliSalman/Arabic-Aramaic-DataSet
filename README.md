@@ -12,7 +12,7 @@ Hosszú, G. (2021): Data-Driven Phenetic Modeling of Scripts’ Evolution. In: S
 
 Hosszú, G. (2017): Phenetic Approach to Script Evolution. In: Hannah Busch, Franz Fischer, Patrick Sahle (eds.), _Kodikologie und Paläographie im Digitalen Zeitalter 4 – Codicology and Palaeography in the Digital Age 4. (Based on the conference lecture in Machines and Manuscripts III - Research of Written Documents in the Digital Age, February 22-23, 2016, Darmstadt)_ Norderstedt: Books on Demand. 179–252. Online: http://kups.ub.uni-koeln.de/7787/, URN: http://nbn-resolving.de/urn:nbn:de:hbz:38-77871
 
-Hosszú, G. (2023): _Similarity Feature Groups of Historical Scripts’ Taxa._ Research material. Unpublished. Online: https://www.researchgate.net/publication/370863251_Similarity_Feature_Groups_of_Historical_Scripts'_Taxa
+Hosszú, G. (2023): _Similarity Feature Groups of Historical Scripts’ Taxa._ Research report. Online: https://researchgate.net/publication/370863251
 
 Hosszú, G. & Kovács, F. (2016): Topological Analysis of Ancient Glyphs. In: _Proc. of the 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2016), October 9-12, 2016, Budapest, Hungary._ 2248–2253. DOI:10.1109/SMC.2016.7844573. Online: http://real.mtak.hu/id/eprint/133933
 
